@@ -1,2 +1,5 @@
-# php_oo_2
-Course: https://www.alura.com.br/curso-online-php-oo-heranca-polimorfirmo-interfaces
+<img />
+
+# Advancing Object Oriented with PHP: Inheritance, Polymorphism and Interfaces
+
+[About and Certificate](link to certificate)
